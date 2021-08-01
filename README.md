@@ -27,7 +27,7 @@ Steps to run:
 5) #flask installation using pip package manager
        (venv)$pip install Flask
 
-6)  # to run application we need to use flask command
+6)  #to run application we need to use flask command
      (venv) $ flask run
 7)  $npm install
 
