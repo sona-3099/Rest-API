@@ -16,9 +16,9 @@ Steps to run:
 4) create mysql database as mentioned in db module
 
       -> here i used mysql database so we need to do connectivity
-      *# firstly get mysql prompt****
-     sudo mysql -u root
-**then create user**
+      -># firstly get mysql prompt
+          sudo mysql -u root
+     ->then create user
  syantsx :  mysql > create user ‘username’@’localhost’ identified by ‘password’;
              mysql > create user ‘sonali’@’localhost’ identified by ‘Pass@2021’;
 #import scientist.sql file to create database
